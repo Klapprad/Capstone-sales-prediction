@@ -22,3 +22,7 @@ Das Modell zeigt keine Anzeichen von Overfitting und kann zur Unterstützung fun
 - **Features**: Zeitbasierte Features, Kundenanzahl, Promotionseffekte
 - **Modelle**: Random Forest, Gradient Boosting, Lineare Regression
 - **Tools**: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
+
+
+
+https://online.xd-i.com/users/sign_in
